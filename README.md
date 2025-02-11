@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy JoeyXan
 
-<!--
-**JoeyXan/JoeyXan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! 🚀 Aquí encontrarás proyectos relacionados con **Big Data, análisis estadístico, visualización de datos y machine learning**.  
 
-Here are some ideas to get you started:
+## 📌 Sobre mí  
+- 🎓 Estudiante de **Big Data** con pasión por el análisis de datos y la inteligencia artificial.  
+- 🔍 Me interesa la predicción de datos y la optimización de modelos.  
+- 💻 Trabajo con **Python, R, SQL, Power BI** y herramientas para análisis de datos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Actualmente estoy...  
+- 🔭 Desarrollando un sistema predictivo de **abandono universitario** usando machine learning.  
+- 📊 Creando dashboards interactivos con **Power BI y R**.  
+- 🤖 Explorando técnicas de inteligencia artificial y minería de datos.  
+
+## 🤝 Colaboraciones  
+Si te interesa trabajar en proyectos de **análisis de datos, modelado estadístico o aprendizaje automático**, ¡hablemos!  
+
+## 📫 Contacto  
+- ✉️ **Email:** joseph.escalante.est@tecazuay.edu.ec
+
+⚡ *Dato curioso:* También me gusta analizar datos de videojuegos, en especial **Valorant**. 🎮  
