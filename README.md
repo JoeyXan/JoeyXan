@@ -16,6 +16,6 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 Si te interesa trabajar en proyectos de **análisis de datos, modelado estadístico o aprendizaje automático**, ¡hablemos!  
 
 ## 📫 Contacto  
-- ✉️ **Email:** joseph.escalante.est@tecazuay.edu.ec
+✉️ **Email:** joseph.escalante.est@tecazuay.edu.ec
 
 ⚡ *Dato curioso:* También me gusta analizar datos de videojuegos, en especial **Valorant**. 🎮  
