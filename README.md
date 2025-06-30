@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy JoeyXan
+#  ¡Hola! Soy JoeyXan
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Aquí encontrarás proyectos relacionados con **Big Data, análisis estadístico, visualización de datos y machine learning**.  
 
